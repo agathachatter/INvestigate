@@ -1,7 +1,7 @@
 int main()
 {
-  cout<<"HELLO MEMBERs"<<endl;
-  cout<<"leT's be SHERLOCK HOLMES ";
+  cout<<"HELLO MEMBERS!!"<<endl;
+  cout<<"Let's be SHERLOCK HOLMES! ";
   return 0;
 
 }
